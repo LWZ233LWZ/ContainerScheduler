@@ -16,3 +16,6 @@ A container scheduler.
 3)调度器根据调度算法，选择合适的节点
 4)应用运行到调度的节点上
 
+实现语言：Python
+本来是准备采用Golang，但是Golang目前使用不熟练
+
